@@ -8,7 +8,7 @@ public class Day01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr={1,2,3,7,8};
-		int i,j,k;
+		int i,j,k,roopa;
 		int smallest1=99999;
 		int smallest2=99999;
 		
