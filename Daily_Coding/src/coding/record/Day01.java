@@ -10,7 +10,7 @@ public class Day01 {
 		int[] arr={1,2,3,7,8};
 		int i,j,k;
 		int smallest1=9999;
-		int smallest2=99999;
+		int smallest2=9999999999;
 		
 		for(i=0;i<arr.length;i++){
 		    if(arr[i]<smallest1){
