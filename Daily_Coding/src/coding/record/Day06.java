@@ -1,5 +1,7 @@
 package coding.record;
 
+//Question: Find Pair of numbrs which has sum that is multiple of 3. 
+
 public class Day06 {
 
 	public static void main(String[] args) {
