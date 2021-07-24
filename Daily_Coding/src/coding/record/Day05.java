@@ -29,7 +29,7 @@ public class Day05 {
 			if(hash.containsKey(ch[i]))
 				hash.put(ch[i],hash.get(ch[i])-1);
 			else
-				hash.put(ch[i],1);
+				hash.put(ch[i],-1);
 		}
 		
 		int p=0;
