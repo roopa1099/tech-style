@@ -1,5 +1,8 @@
 package coding.record;
 import java.util.*;
+
+
+//Print string after removing spaces, TC=O(n), SC=O(1), One loop
 public class Day07 {
 
 	public static void main(String[] args) {
@@ -15,16 +18,6 @@ public class Day07 {
 		}
 	
 		System.out.print(newstr);
-//		char [] str=sc.next().toCharArray();
-//		String newstr="";
-//		for(int i=0;i<str.length;i++)
-//		{	System.out.println(newstr);
-//
-//			if(str[i]!=' ')
-//				newstr=newstr+str[i];
-//		}
-//		System.out.println(newstr);
-
 	}
 
 }
