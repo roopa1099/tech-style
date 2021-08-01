@@ -1,7 +1,6 @@
 ## Solutions Evaluated
 
-Solution Submitted Before Deadline: ✔️
-Solution Submitted After Deadline: ☑️
+Solution Submitted Before Deadline: ✔️               Solution Submitted After Deadline: ☑️
 
 
 - `Day1`:  ✔️
