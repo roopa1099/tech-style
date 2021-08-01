@@ -9,4 +9,4 @@ Solution Submitted Before/On Deadline: ✔️ &nbsp;&nbsp;&nbsp;&nbsp;Solution S
 -  `Day4`: ✔️
 -  `Day5`: ✔️
 -  `Day6`: ✔️
--  `Day7`:
+-  `Day7`: ☑️
