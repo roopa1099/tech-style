@@ -1,4 +1,9 @@
 ## Solutions Evaluated
+
+Solution Submitted Before Deadline: ✔️
+Solution Submitted After Deadline: ☑️
+
+
 - `Day1`:  ✔️
 -  `Day2`: ✔️
 -  `Day3`: ✔️
