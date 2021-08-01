@@ -1,4 +1,4 @@
-## Solutions Evaluated
+## Evaluation
 
 Solution Submitted Before/On Deadline: ✔️ &nbsp;&nbsp;&nbsp;&nbsp;Solution Submitted After Deadline: ☑️
 
