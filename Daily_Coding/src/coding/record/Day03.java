@@ -50,9 +50,7 @@ public class Day03 {
 	        
 	        mid=(l+r)/2;
 	        
-	        }
-	        
-	     //System.out.println(pos);   
+	        } 
 	     
 	     int l1=0,l2=pos;                   //2 sub arrays
 	     int r1=pos-1,r2=size-1;
