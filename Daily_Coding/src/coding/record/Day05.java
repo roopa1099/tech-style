@@ -22,9 +22,6 @@ public class Day05 {
 				hash.put(ch[i],1);
 		}
 		
-		
-		
-		
 		for(i=(size/2);i<size;i++) {
 			if(hash.containsKey(ch[i]))
 				hash.put(ch[i],hash.get(ch[i])-1);
@@ -40,7 +37,7 @@ public class Day05 {
 			}
 		}
 		if(p==0)
-			System.out.print("Same freqency");
+			System.out.print("The freqency of the result was found same");
 		else
 			System.out.print("Not Same freqency");
 		
