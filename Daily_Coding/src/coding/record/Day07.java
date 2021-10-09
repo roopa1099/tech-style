@@ -8,7 +8,7 @@ public class Day07 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		String ptr="I hate you";
+		String ptr="This is a new message";
 		int i,j;
 		String newstr="";
 		for(i=0;i<ptr.length();i++) {
