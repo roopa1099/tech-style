@@ -1,2 +1,3 @@
 # tech-style
-Primarily focus on coding milestone
+Primarily focus on coding milestones in java
+
