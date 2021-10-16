@@ -7,7 +7,7 @@ public class Day06 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i1,j;
-		int [] arr= {21,56,23,54};
+		int [] arr= {21, 56, 23, 54, 89};
 		int r0=0,r1=0,r2=0;
 		for(i1=0;i1<arr.length;i1++) {
 			if(arr[i1]%3==0)
