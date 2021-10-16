@@ -7,7 +7,7 @@ public class Day01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] arr={1,2,3,7,8};
+		int[] arr={1, 2, 3, 7, 8};
 		int i,j,k;
 		int smallest1=9999;
 
@@ -25,9 +25,6 @@ public class Day01 {
 		    else if(arr[i]>smallest1 && arr[i]<smallest2){
 		        smallest2=arr[i];
 		    }
-		    
-		 
-
 	}
 		System.out.println(smallest1+" "+smallest2);
 
